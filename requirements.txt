@@ -1,0 +1,6 @@
+requests>=2.25.0
+websocket-client>=1.2.0
+python-dotenv>=0.19.0
+pydantic>=1.8.0
+firecrawl>=1.0.0
+uuid>=1.30
